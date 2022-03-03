@@ -1,0 +1,5 @@
+---
+crictl_version: 1.23.0
+crictl_for_all_users: true
+
+command_shell: bash
