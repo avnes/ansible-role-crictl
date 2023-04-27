@@ -1,6 +1,6 @@
 ---
-- hosts: localhost
+- name: Test the role
+  hosts: localhost
   remote_user: root
   roles:
-    - name: Test the role
-      role: ansible-role-crictl
+    - ansible-role-crictl
